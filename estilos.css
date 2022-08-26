@@ -122,8 +122,8 @@ h1{
    position: absolute;
    width: 577px;
    height: 48px;
-   left: 900px;
-   top: 100px;
+   left: 400px;
+   top: 180px;
    font-family: 'Inter';
    font-style: normal;
    font-weight: 400;
@@ -156,7 +156,7 @@ z-index: 100;
 position: absolute;
 width: 277px;
 height: 30px;
-left: 500px;
+left: 900px;
 top: 380px;
 resize: none;
 padding-bottom: 6em;
@@ -287,8 +287,6 @@ border-bottom: 70px  solid #d31134;
     position: relative;
     left: 200px;
 }
-
-
 
 .tooltip {
 position: relative;
