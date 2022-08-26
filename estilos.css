@@ -150,13 +150,14 @@ h1{
    height: 250px; 
    margin-left: 50px;
 }
+
 .txtEn{   
 z-index: 100;
 position: absolute;
 width: 277px;
 height: 30px;
-left: 900px;
-top: 360px;
+left: 400px;
+top: 380px;
 resize: none;
 padding-bottom: 6em;
 width: 20rem;
