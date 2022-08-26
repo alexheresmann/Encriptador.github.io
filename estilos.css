@@ -135,7 +135,7 @@ h1{
    resize: none;
 
     padding-bottom: 6em;
-    width: 20rem;
+    width: 22rem;
     border-radius: 5px;
     border-color: rgba(51, 21, 21, 0.603);
     outline: none;
@@ -156,11 +156,11 @@ z-index: 100;
 position: absolute;
 width: 277px;
 height: 30px;
-left: 900px;
-top: 240px;
+left: 870px;
+top: 210px;
 resize: none;
 padding-bottom: 6em;
-width: 20rem;
+width: 22rem;
 border-radius: 5px;
 border-color: rgba(51, 21, 21, 0.603);
 outline: none;
