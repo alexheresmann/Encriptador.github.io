@@ -432,7 +432,12 @@ body{
     border: 1px solid #0A3871;
     border-radius: 24px;
     padding-left: 65px;
-}   
+}  
+.img{
+    width: 250px;
+    height: 250px; 
+    margin-left: 10px;
+} 
 .intext{
     /* Ingrese el texto aqui */
     padding-top: 30px;
@@ -442,7 +447,7 @@ body{
     left: 150px;
     top: 350px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-style: italic;
+    font-style: italic;
     font-weight: 500;
     font-size: 62px;
     line-height: 10%;
@@ -450,32 +455,27 @@ body{
     /* Dark blue/dark-blue-300 */
     color: #0A3871;
    /* resize: none;*/
-        padding-bottom: 0em;
-        width: 1rem;
-        border-radius: 5px;
-        border-color: rgba(51, 21, 21, 0.603);
-        outline: none;
-        background-color: rgba(155, 155, 155, 0.336);
-        border: 1px solid rgb(40, 43, 61);
-        font-size: 4.2rem;
-        color: rgb(226, 226, 226);
+    padding-bottom: 0em;
+    width: 5rem;
+    border-radius: 5px;
+    border-color: rgba(51, 21, 21, 0.603);
+    outline: none;
+    background-color: rgba(155, 155, 155, 0.336);
+    border: 1px solid rgb(40, 43, 61);
+    font-size: 4.2rem;
+    color: rgb(226, 226, 226);
 }  
-.img{
-    width: 250px;
-    height: 250px; 
-    margin-left: 10px;
-}
 .txtEn{   
     z-index: 100;
     position: relative;
-    width: 1610px;
+    width: 610px;
     height: 0px;
     left: 50px;
     top: 100px;       
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-style: italic;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;    
     padding-bottom: 6em;
-    width: 50rem;
+    width: 5rem;
     border-radius: 5px;
     border-color: rgba(51, 21, 21, 0.603);       
     background-color: rgba(155, 155, 155, 0.336);
@@ -483,14 +483,12 @@ body{
     font-size: 4.2rem;
     color: rgb(226, 226, 226);
 }
-
 .creditos {
  font-size: 20px; 
  position: relative;
  left: 50px;
  top: 150px;   
 }
-
 .Encriptadorlbl{
     z-index: 100;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -520,5 +518,4 @@ h1{
     top: 310px;
     left: 370px;
     }
-
 }
