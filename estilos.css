@@ -365,19 +365,19 @@ body{
     position: absolute;
     width: 680px;
     height: 50px;
-    left: 220px;
+    left: 20px;
     top: 450px;
 }   
 .boton1{
     /* Button */
     /* Auto layout */
-    font-size: 40px;
+    font-size: 10px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     padding: 24px;
     gap: 8px;
-    width: 340px;
+    width: 140px;
     height: 100px;
     /* Dark blue/dark-blue-300 */
     color: #FFFFFF;
@@ -391,7 +391,7 @@ body{
 }   
 .boton2{
     /* Button */
-    font-size: 40px;
+    font-size: 10px;
     box-sizing: border-box;
     /* Auto layout */
     display: flex;
@@ -399,7 +399,7 @@ body{
     align-items: flex-start;
     padding: 24px;
     gap: 8px;
-    width: 340px;
+    width: 140px;
     height: 100px;
     /* Light gray */
     color:  #0A3871;
@@ -415,7 +415,7 @@ body{
 }   
 .boton3{
     /* Button */
-    font-size: 40px;
+    font-size: 10px;
     box-sizing: border-box;
     /* Auto layout */
     display: flex;
@@ -485,22 +485,21 @@ body{
 }
 
 .creditos {
- font-size: 40px; 
+ font-size: 20px; 
  position: relative;
  left: 50px;
- top: 350px;   
+ top: 150px;   
 }
 
 .Encriptadorlbl{
     z-index: 100;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-style: italic;
+    font-style: italic;
     font-size: 40px; 
     position: relative;
     left: 20px;
     top: 0px; 
 }
-
 h1{
     display: inline;
     position: relative;
@@ -518,8 +517,8 @@ h1{
     .chile {
     background: rgb(0, 17, 255);
     position: relative;
-    top: 410px;
-    left: 470px;
+    top: 310px;
+    left: 370px;
     }
 
 }
