@@ -340,10 +340,10 @@ body{
     border-radius: 32px;
     /* Rectangle 1 */
     position: absolute;
-    width: 640px;
+    width: 540px;
     height: 510px;
     left: 40px;
-    top: 200px;   
+    top: 50px;   
 }   
 .muneco{
 /* Muñeco */
@@ -487,8 +487,8 @@ body{
 .creditos {
  font-size: 40px; 
  position: relative;
- left: 150px;
- top: 550px;   
+ left: 50px;
+ top: 350px;   
 }
 
 .Encriptadorlbl{
