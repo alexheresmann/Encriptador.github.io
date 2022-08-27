@@ -36,11 +36,6 @@ h1{
    box-shadow: 3px 3px 10px 5px rgb(0 0 0 / 80%);
    border-radius: 32px;
 
-   /*
-   background: rgb(242,209,5);
-   background: radial-gradient(circle, rgba(242,209,5,1) 0%, rgba(32,139,144,0.94359462535014) 36%, rgba(180,73,33,1) 61%, rgba(167,205,23,1) 77%, rgba(0,0,0,1) 100%);
-*/
-
    background: -webkit-linear-gradient(90deg, rgb(0, 255, 13) 10%, rgb(0, 204, 255) 90%);
    background: -moz-linear-gradient(90deg, rgb(0, 255, 55) 10%, rgb(4, 0, 255) 90%);
    background: -ms-linear-gradient(90deg, rgb(0, 255, 76) 10%, rgb(0, 174, 255) 90%);
@@ -342,27 +337,21 @@ visibility: visible;
 opacity: 1;
 }
 
-
-
-
 @media (min-width: 300px) and (max-width: 900px)  {
 /* For mobile phones: */
-
 h1{      
-    font-size: 160px;
+    font-size: 30px;
 }  
-
 body{
-    display: block;
-   
+    display: block;   
 }      
 
 .rectangulo {        
     border-radius: 32px;
     /* Rectangle 1 */
     position: absolute;
-    width: 1024px;
-    height: 1310px;
+    width: 640px;
+    height: 510px;
     left: 40px;
     top: 200px;
     /* White */
@@ -377,10 +366,10 @@ body{
 .muneco{
 /* Muñeco */
     position: relative;
-    width: 936px;
-    height: 904px;
-    left: 140px;
-    top: 260px;
+    width: 536px;
+    height: 404px;
+    left: 40px;
+    top: 200px;
 }
 /* Frame 3 */
 /* Auto layout */
