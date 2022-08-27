@@ -338,7 +338,7 @@ opacity: 1;
         border-radius: 32px;
         /* Rectangle 1 */
         position: absolute;
-        width: 540px;
+        width: 340px;
         height: 510px;
         left: 40px;
         top: 50px;   
@@ -442,7 +442,7 @@ opacity: 1;
         z-index: 100;
         position: absolute ;   
         height: 100px;
-        left: 30px;
+        left: 60px;
         top: 80px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-style: italic;
@@ -467,7 +467,7 @@ opacity: 1;
         z-index: 100;
         position: relative;   
         height: 0px;
-        left: 30px;
+        left: 60px;
         top: 250px;       
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-style: italic;    
@@ -484,7 +484,7 @@ opacity: 1;
     font-size: 20px; 
     position: relative;
     left: 50px;
-    top: 140px;   
+    top: 350px;   
     }
     .Encriptadorlbl{
         z-index: 100;
