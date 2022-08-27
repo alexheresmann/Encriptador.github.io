@@ -128,9 +128,9 @@ h1{
    z-index: 100;
    position: absolute;
    width: 577px;
-   height: 48px;
-   left: 300px;
-   top: 240px;
+   height: 145px;
+   left: 250px;
+   top: 210px;
    font-family: 'Inter';
    font-style: normal;
    font-weight: 400;
@@ -142,7 +142,7 @@ h1{
    resize: none;
 
     padding-bottom: 6em;
-    width: 22rem;
+    width: 25rem;
     border-radius: 5px;
     border-color: rgba(51, 21, 21, 0.603);
     outline: none;
@@ -162,7 +162,7 @@ h1{
 z-index: 100;
 position: absolute;
 width: 277px;
-height: 30px;
+height: 145px;
 left: 870px;
 top: 210px;
 resize: none;
