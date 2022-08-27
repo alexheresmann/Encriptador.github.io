@@ -3,11 +3,15 @@ body{
     background: rgb(242,209,5);
     background: radial-gradient(circle, rgba(242,209,5,1) 0%, rgba(32,139,144,0.94359462535014) 36%, rgba(180,73,33,1) 61%, rgba(167,205,23,1) 77%, rgba(0,0,0,1) 100%);
 */
+
+/*
     background: -webkit-linear-gradient(90deg, rgb(0, 204, 255) 10%, rgb(0, 255, 13) 90%);
     background: -moz-linear-gradient(90deg, rgb(4, 0, 255) 10%, rgb(0, 255, 55) 90%);
     background: -ms-linear-gradient(90deg, rgb(0, 174, 255) 10%, rgb(0, 255, 76) 90%);
     background: -o-linear-gradient(90deg, rgb(0, 89, 255) 10%, rgb(0, 255, 106) 90%);
     background: linear-gradient(90deg, rgb(0, 255, 221) 10%, rgb(0, 255, 21) 90%);
+    */
+    background: blue;
 }
 h1{
     font-size: 60px;
@@ -363,7 +367,7 @@ opacity: 1;
         position: absolute;
         width: 680px;
         height: 50px;
-        left: 15px;
+        left: 35px;
         top: 500px;
     }   
     .boton1{
@@ -385,7 +389,7 @@ opacity: 1;
         flex: none;
         order: 0;
         flex-grow: 0;
-        padding-left: 45px;
+        padding-left: 10px;
     }   
     .boton2{
         /* Button */
@@ -409,7 +413,7 @@ opacity: 1;
         flex: none;
         order: 1;
         flex-grow: 0;
-        padding-left: 35px;
+        padding-left: 10px;
     }   
     .boton3{
         /* Button */
@@ -429,7 +433,7 @@ opacity: 1;
         /* Dark blue/dark-blue-300 */
         border: 1px solid #0A3871;
         border-radius: 24px;
-        padding-left: 65px;
+        padding-left: 10px;
     }  
     .img{
         width: 250px;
@@ -512,7 +516,7 @@ opacity: 1;
     .chile {
         background: rgb(0, 17, 255);
         position: relative;
-        top: 280px;
-        left: 110px;
+        top: 310px;
+        left: 50px;
     }
 }
