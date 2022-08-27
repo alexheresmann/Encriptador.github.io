@@ -8,7 +8,6 @@ body{
     background: -ms-linear-gradient(90deg, rgb(0, 174, 255) 10%, rgb(0, 255, 76) 90%);
     background: -o-linear-gradient(90deg, rgb(0, 89, 255) 10%, rgb(0, 255, 106) 90%);
     background: linear-gradient(90deg, rgb(0, 255, 221) 10%, rgb(0, 255, 21) 90%);
-
 }
 
 h1{
