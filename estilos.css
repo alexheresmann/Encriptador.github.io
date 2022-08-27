@@ -369,11 +369,11 @@ opacity: 1;
     .boton1{
         /* Button */
         /* Auto layout */
-        font-size: 15px;
+        font-size: 12px;
         display: flex;
         flex-direction: row;
         align-items: flex-start;
-        padding: 24px;
+        padding: 16px;
         gap: 8px;
         width: 160px;
         height: 50px;
@@ -389,13 +389,13 @@ opacity: 1;
     }   
     .boton2{
         /* Button */
-        font-size: 15px;
+        font-size: 12px;
         box-sizing: border-box;
         /* Auto layout */
         display: flex;
         flex-direction: row;
         align-items: flex-start;
-        padding: 24px;
+        padding: 16px;
         gap: 8px;
         width: 160px;
         height: 50px;
@@ -413,7 +413,7 @@ opacity: 1;
     }   
     .boton3{
         /* Button */
-        font-size: 15px;
+        font-size: 12px;
         box-sizing: border-box;
         /* Auto layout */
         display: flex;
@@ -423,8 +423,8 @@ opacity: 1;
         gap: 8px;
         position: absolute;
         width: 180px;
-        height: 40px;
-        left: 130px;
+        height: 30px;
+        left: 100px;
         top: 420px;
         /* Dark blue/dark-blue-300 */
         border: 1px solid #0A3871;
@@ -467,12 +467,12 @@ opacity: 1;
         z-index: 100;
         position: relative;   
         height: 60px;
-        left: 60px;
-        top: 200px;       
+        left: 50px;
+        top: 190px;       
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-style: italic;    
         padding-bottom: 6em;
-        width: 15rem;
+        width: 16rem;
         border-radius: 5px;
         border-color: rgba(51, 21, 21, 0.603);       
         background-color: rgba(155, 155, 155, 0.336);
@@ -483,8 +483,8 @@ opacity: 1;
     .creditos {
     font-size: 20px; 
     position: relative;
-    left: 50px;
-    top: 350px;   
+    left: 30px;
+    top: 370px;   
     }
     .Encriptadorlbl{
         z-index: 100;
@@ -507,12 +507,12 @@ opacity: 1;
         height: 150px;
         width: 210px; 
         float: left;
-        transform: scale(.3);
+        transform: scale(.2);
     }
     .chile {
         background: rgb(0, 17, 255);
         position: relative;
-        top: 190px;
+        top: 250px;
         left: 170px;
     }
 }
