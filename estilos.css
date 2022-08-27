@@ -371,14 +371,14 @@ body{
 .boton1{
     /* Button */
     /* Auto layout */
-    font-size: 10px;
+    font-size: 20px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     padding: 24px;
     gap: 8px;
     width: 140px;
-    height: 100px;
+    height: 500px;
     /* Dark blue/dark-blue-300 */
     color: #FFFFFF;
     background: #0A3871;
@@ -391,7 +391,7 @@ body{
 }   
 .boton2{
     /* Button */
-    font-size: 10px;
+    font-size: 20px;
     box-sizing: border-box;
     /* Auto layout */
     display: flex;
@@ -400,7 +400,7 @@ body{
     padding: 24px;
     gap: 8px;
     width: 140px;
-    height: 100px;
+    height: 50px;
     /* Light gray */
     color:  #0A3871;
     background: #D8DFE8;
@@ -415,7 +415,7 @@ body{
 }   
 .boton3{
     /* Button */
-    font-size: 10px;
+    font-size: 20px;
     box-sizing: border-box;
     /* Auto layout */
     display: flex;
@@ -424,10 +424,10 @@ body{
     padding: 24px;
     gap: 8px;
     position: absolute;
-    width: 280px;
-    height: 100px;
-    left: 430px;
-    top: 420px;
+    width: 180px;
+    height: 50px;
+    left: 230px;
+    top: 220px;
     /* Dark blue/dark-blue-300 */
     border: 1px solid #0A3871;
     border-radius: 24px;
@@ -443,12 +443,12 @@ body{
     padding-top: 30px;
     z-index: 100;
     position: absolute ;   
-    height: 400px;
+    height: 200px;
     left: 150px;
     top: 350px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    font-weight: 500;
+    font-weight: 100;
     font-size: 62px;
     line-height: 10%;
     /* identical to box height, or 48px */
@@ -456,7 +456,7 @@ body{
     color: #0A3871;
    /* resize: none;*/
     padding-bottom: 0em;
-    width: 5rem;
+    width: 10rem;
     border-radius: 5px;
     border-color: rgba(51, 21, 21, 0.603);
     outline: none;
@@ -467,15 +467,14 @@ body{
 }  
 .txtEn{   
     z-index: 100;
-    position: relative;
-    width: 610px;
+    position: relative;   
     height: 0px;
     left: 50px;
     top: 100px;       
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;    
     padding-bottom: 6em;
-    width: 5rem;
+    width: 10rem;
     border-radius: 5px;
     border-color: rgba(51, 21, 21, 0.603);       
     background-color: rgba(155, 155, 155, 0.336);
@@ -505,17 +504,17 @@ h1{
     margin: 0px;
     top: 0px; 
 }
-   .bandera {
+.bandera {
     margin: 1em;
     height: 150px;
     width: 210px; 
     float: left;
     transform: scale(.5);
-    }
-    .chile {
+}
+.chile {
     background: rgb(0, 17, 255);
     position: relative;
-    top: 310px;
-    left: 370px;
-    }
+    top: 110px;
+    left: 270px;
+}
 }
