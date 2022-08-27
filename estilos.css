@@ -9,13 +9,12 @@ body{
     background: -o-linear-gradient(90deg, rgb(0, 89, 255) 10%, rgb(0, 255, 106) 90%);
     background: linear-gradient(90deg, rgb(0, 255, 221) 10%, rgb(0, 255, 21) 90%);
 }
-
 h1{
     font-size: 60px;
     margin-left: 60px;        
     margin-bottom: 0px;
     margin-top: 0px;
-}        
+}      
 
 .rectangulo {
    height: 544px;
@@ -180,9 +179,7 @@ border: 1px solid rgb(40, 43, 61);
 font-size: 1.2rem;
 color: rgb(226, 226, 226);
 }
-
-::placeholder { color: rgb(255, 217, 0); }
-
+::placeholder { color: rgb(4, 0, 255); }
 .bandera {
 margin: 1em;
 height: 150px;
@@ -290,7 +287,6 @@ border-bottom: 70px  solid #d31134;
  left: 210px;
  top: 300px;   
 }
-
 .Encriptadorlbl{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-style: italic;
@@ -298,12 +294,10 @@ border-bottom: 70px  solid #d31134;
     position: relative;
     left: 200px;
 }
-
 .tooltip {
 position: relative;
 display: inline-block;
 }
-
 .tooltip .tooltiptext {
 visibility: hidden;
 width: 140px;
@@ -320,7 +314,6 @@ margin-left: -75px;
 opacity: 0;
 transition: opacity 0.3s;
 }
-
 .tooltip .tooltiptext::after {
 content: "";
 position: absolute;
@@ -331,12 +324,10 @@ border-width: 5px;
 border-style: solid;
 border-color: #555 transparent transparent transparent;
 }
-
 .tooltip:hover .tooltiptext {
 visibility: visible;
 opacity: 1;
 }
-
 @media (min-width: 300px) and (max-width: 900px)  {
 /* For mobile phones: */
 h1{      
@@ -344,8 +335,7 @@ h1{
 }  
 body{
     display: block;   
-}      
-
+} 
 .rectangulo {        
     border-radius: 32px;
     /* Rectangle 1 */
@@ -353,23 +343,15 @@ body{
     width: 640px;
     height: 510px;
     left: 40px;
-    top: 200px;
-    /* White */
-    background: #FFFFFF;
-    /* shadow */
-    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
-    border-radius: 32px;
-    background: rgb(242,209,5);
-    background: radial-gradient(circle, rgba(242,209,5,1) 0%, rgba(32,139,144,0.94359462535014) 36%, rgba(180,73,33,1) 61%, rgba(167,205,23,1) 77%, rgba(0,0,0,1) 100%);
-
+    top: 200px;   
 }   
 .muneco{
 /* Muñeco */
     position: relative;
-    width: 536px;
-    height: 404px;
-    left: 40px;
-    top: 200px;
+    width: 136px;
+    height: 204px;
+    left: 20px;
+    top: 100px;
 }
 /* Frame 3 */
 /* Auto layout */
@@ -384,7 +366,7 @@ body{
     width: 680px;
     height: 50px;
     left: 220px;
-    top: 1350px;
+    top: 450px;
 }   
 .boton1{
     /* Button */
@@ -445,7 +427,7 @@ body{
     width: 280px;
     height: 100px;
     left: 430px;
-    top: 1220px;
+    top: 420px;
     /* Dark blue/dark-blue-300 */
     border: 1px solid #0A3871;
     border-radius: 24px;
@@ -453,9 +435,7 @@ body{
 }   
 .intext{
     /* Ingrese el texto aqui */
-
     padding-top: 30px;
-
     z-index: 100;
     position: absolute ;
     width: 700px;
@@ -480,9 +460,7 @@ body{
         border: 1px solid rgb(40, 43, 61);
         font-size: 4.2rem;
         color: rgb(226, 226, 226);
-
 }  
-
 .img{
     width: 550px;
     height: 550px; 
@@ -494,11 +472,9 @@ body{
     width: 1610px;
     height: 0px;
     left: 150px;
-    top: 500px;     
-    
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-style: italic;
-    
+    top: 500px;       
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;    
     padding-bottom: 6em;
     width: 50rem;
     border-radius: 5px;
