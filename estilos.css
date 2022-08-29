@@ -434,6 +434,7 @@ opacity: 1;
         border: 1px solid #0A3871;
         border-radius: 24px;
         padding-left: 30px;
+        background: orange;
     }  
     .img{
         width: 250px;
